@@ -1,0 +1,648 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{058E1686-AA91-4800-94DB-FC696B998662}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PeriyodikTablo</RootNamespace>
+    <AssemblyName>PeriyodikTablo</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Al.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arama.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\As.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ASD.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asdf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\azot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\berilyum.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bor.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BrE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cetttt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cetvel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cikis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Co.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DEMIR.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\F.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fosfor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fr.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ga.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\He.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hidrojen2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ıcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\K.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kr.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lityum.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mangenez.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Naa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nb1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\neon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NIKEL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oksijen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ru.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Se.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Se1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SKANDINYUM.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sr.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ssss.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Titanyum.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vanadyumm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Y.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yonetici.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zr.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ger.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gumus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SMILE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\In.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Helement.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeElement.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CaElement.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Celement.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MoElement.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LITYUMelement.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BeElement.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BorE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nelement.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Oelement.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Felement.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MgElement.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NaElement.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SILISYUM.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FOSFORE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Selement.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CLelement.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kelement.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SbElement.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SnElement.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TeElement.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\I.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cs.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Xe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ba.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ba1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\La.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ce.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\M.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eur.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GD.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ho.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Er.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\W.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Re.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Os.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pt.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Au.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tl.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pbb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BI.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Po.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\At.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fr1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ra.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ac.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Th.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\U.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NEP.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\de.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nbhv.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AMER.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fuzyon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kalofot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\qwe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EINS.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Md.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lr.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Db.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hs.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mt.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Darmstadtium.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rg.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Uut.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Elementtt.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uuuu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uuh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UUS.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UUOO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BkElement.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ame.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pulutanyum.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UutElement.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lv.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TEMIZLE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TEMIZLEYEBILIRSIN.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArkaRenk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\soygaz.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sontbl.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ALKALIMETAL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ALKALITOO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ARAGECISMETALLER.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DIGERMETAL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GECISMETALLERI.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HOLOJENLER.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SOYGAZLAR.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YARIMETALLER.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ILETKEN.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ILETKENNNNN.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IletkenElement.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IletkelElementler.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KATI.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KATISIVI.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KATISIVIGAZ.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ametal.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SoygazGrub.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

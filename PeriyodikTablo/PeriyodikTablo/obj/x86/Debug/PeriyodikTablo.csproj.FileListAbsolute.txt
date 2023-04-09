@@ -1,0 +1,62 @@
+D:\Yeni klasör\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Yeni klasör\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.Form1.resources
+D:\Yeni klasör\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.Form2.resources
+D:\Yeni klasör\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.Properties.Resources.resources
+D:\Yeni klasör\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Yeni klasör\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Yeni klasör\PeriyodikTablo\PeriyodikTablo\bin\Debug\PeriyodikTablo.exe
+D:\Yeni klasör\PeriyodikTablo\PeriyodikTablo\bin\Debug\PeriyodikTablo.pdb
+D:\Yeni klasör\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.exe
+D:\Yeni klasör\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.pdb
+D:\Yeni klasör\Yeni klasör\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.exe
+D:\Yeni klasör\Yeni klasör\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.pdb
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.exe
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.pdb
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör\PeriyodikTablo\PeriyodikTablo\bin\Debug\PeriyodikTablo.exe
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör\PeriyodikTablo\PeriyodikTablo\bin\Debug\PeriyodikTablo.pdb
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.Form1.resources
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.Form2.resources
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.Properties.Resources.resources
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör (11)\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.exe
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör (11)\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.pdb
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör (11)\PeriyodikTablo\PeriyodikTablo\bin\Debug\PeriyodikTablo.exe
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör (11)\PeriyodikTablo\PeriyodikTablo\bin\Debug\PeriyodikTablo.pdb
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör (11)\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.Form1.resources
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör (11)\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.Form2.resources
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör (11)\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.Properties.Resources.resources
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör (11)\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.csproj.GenerateResource.Cache
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör (11)\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.csprojResolveAssemblyReference.cache
+C:\Users\Hakkı Ogut\Desktop\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.exe
+C:\Users\Hakkı Ogut\Desktop\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.pdb
+C:\Users\Hakkı Ogut\Desktop\PeriyodikTablo\PeriyodikTablo\bin\Debug\PeriyodikTablo.exe
+C:\Users\Hakkı Ogut\Desktop\PeriyodikTablo\PeriyodikTablo\bin\Debug\PeriyodikTablo.pdb
+C:\Users\Hakkı Ogut\Desktop\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.csprojResolveAssemblyReference.cache
+C:\Users\Hakkı Ogut\Desktop\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.Form1.resources
+C:\Users\Hakkı Ogut\Desktop\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.Form2.resources
+C:\Users\Hakkı Ogut\Desktop\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.Properties.Resources.resources
+C:\Users\Hakkı Ogut\Desktop\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.csproj.GenerateResource.Cache
+E:\ \PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.exe
+E:\ \PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.pdb
+E:\ \PeriyodikTablo\PeriyodikTablo\bin\Debug\PeriyodikTablo.exe
+E:\ \PeriyodikTablo\PeriyodikTablo\bin\Debug\PeriyodikTablo.pdb
+E:\ \PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.csprojResolveAssemblyReference.cache
+E:\ \PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.Form1.resources
+E:\ \PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.Form2.resources
+E:\ \PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.Properties.Resources.resources
+E:\ \PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.csproj.GenerateResource.Cache
+F:\ \PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.exe
+F:\ \PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.pdb
+F:\ \PeriyodikTablo\PeriyodikTablo\bin\Debug\PeriyodikTablo.exe
+F:\ \PeriyodikTablo\PeriyodikTablo\bin\Debug\PeriyodikTablo.pdb
+F:\ \PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.csprojResolveAssemblyReference.cache
+F:\ \PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.Form1.resources
+F:\ \PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.Form2.resources
+F:\ \PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.Properties.Resources.resources
+F:\ \PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.csproj.GenerateResource.Cache
+D:\Yeni klasör\SOFTWARE\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.exe
+D:\Yeni klasör\SOFTWARE\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.pdb
+D:\HAFIZE\SOFTWARE\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.exe
+D:\HAFIZE\SOFTWARE\PeriyodikTablo\PeriyodikTablo\obj\x86\Debug\PeriyodikTablo.pdb
